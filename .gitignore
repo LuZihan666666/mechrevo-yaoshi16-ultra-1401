@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+downloads/
+yaoshi-backups/
+EFI/
+SysReport/
+*.log
+*.ips
+*.zip
+*.tgz
+*.dmg
+.ssh/
+id_*
+*private*
+*before*.plist
